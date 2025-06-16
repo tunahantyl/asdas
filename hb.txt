@@ -16,7 +16,7 @@ if (FireEnemyMissile)
 	);
 
 	// Başlangıç konumunu matrislere aktar
-	XMFLOAT4 initialPosition_F4;
+	XMFLOAT4 initialPosition_F4;asdasdasdadasd
 	XMStoreFloat4(&initialPosition_F4, barrelEnd);
 
 	g_World_Enemy_Missile = g_World_Enemy;  // Mermi düşman tankıyla aynı yön ve pozisyonda başlar
